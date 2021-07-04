@@ -2,7 +2,9 @@ package com.OpenCart;
 
 import com.Base.TestBase;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+
 /*
 1. Go to login page.
 2. Type Email.
@@ -12,7 +14,7 @@ import org.openqa.selenium.WebElement;
 
 public class Login extends TestBase {
     public static void main(String[] args) {
-        firefoxLaunch();
+        //firefoxLaunch();
         TC_001_Valid();
         TC_002_InValid();
        // firefoxClose();
@@ -34,8 +36,8 @@ public class Login extends TestBase {
         LoginBtn.click();
 
         //Logout
-        WebElement logout=driver.findElement(By.linkText("Logout"));
-        logout.click();
+        //WebElement logout=driver.findElement(By.linkText("Logout"));
+        //logout.click();
 
     }
     public static void TC_002_InValid(){
@@ -44,7 +46,7 @@ public class Login extends TestBase {
 
         //Step 2
         WebElement Email=driver.findElement(By.id("input-email"));
-        Email.sendKeys("user101@gmail");
+        Email.sendKeys("user101@gmail.com");
 
         //Step 3
         WebElement Password=driver.findElement(By.id("input-password"));
