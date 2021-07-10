@@ -41,8 +41,42 @@ public class Register extends TestBase {
 
 
     }
-    public static void TC_002_invalid(){
+    public static void inputFieldValidationTest(){
+        WebElement ClickContinue = driver.findElement(By.xpath("//*[@id=\"content\"]/form/div/div/input[2]"));
+        WebElement First_name = driver.findElement(By.id("input-firstname"));
+        First_name.sendKeys("dasdassdadasdasdasdasdasdasdasdasdasdasdasdasdasdasd");
 
+        ClickContinue.click();
+
+        String Exp_validationMessage="First Name must be between 1 and 32 characters!";
+        String Act_validationMessage=driver.findElement(By.cssSelector("#account > div:nth-child(3) > div > div")).getText();
+
+        if(Exp_validationMessage.equals(Act_validationMessage))
+        {
+            System.out.println("First Name validation Pass");
+        }
+        else{
+            System.out.println("Test Failed for First name.Yahooooo Bug Found.");
+        }
     }
 
+    public boolean Firstname(){
+        WebElement ClickContinue = driver.findElement(By.xpath("//*[@id=\"content\"]/form/div/div/input[2]"));
+        WebElement First_name = driver.findElement(By.id("input-firstname"));
+        First_name.sendKeys("dasdassdadasdasdasdasdasdasdasdasdasdasdasdasdasdasd");
+
+        ClickContinue.click();
+
+        String Exp_validationMessage="First Name must be between 1 and 32 characters!";
+        String Act_validationMessage=driver.findElement(By.cssSelector("#account > div:nth-child(3) > div > div")).getText();
+
+        if(Exp_validationMessage.equals(Act_validationMessage))
+        {
+            System.out.println("First Name validation Pass");
+        }
+        return true;
+    }
+
+
 }
+

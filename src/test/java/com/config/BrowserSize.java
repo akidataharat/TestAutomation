@@ -1,14 +1,18 @@
 package com.config;
 
 import org.openqa.selenium.Dimension;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class BrowserSize extends BrowserConfig{
 
     public static void main(String[] args) {
+        chromeLaunch();
         //firefoxLaunch();
         Screen_PC();
         getScreenSize();
+        chromeClose();
+
         //firefoxClose();
     }
     /*public static void firefoxLaunch(){
@@ -31,5 +35,6 @@ public class BrowserSize extends BrowserConfig{
     }
     public static void Screen_Tab(){
         driver.manage().window().setSize(new Dimension(768,400));
+
     }
 }
