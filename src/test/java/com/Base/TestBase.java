@@ -24,7 +24,9 @@ public class TestBase {
         driver=new FirefoxDriver();
         System.out.println("Firefox Launch Successfully!!!");
     }*/
-
+    public static void openTestURL(String URL){
+        driver.get(URL);
+    }
     public static void chromeClose(){
         driver.close();
         System.out.println("Chrome Closed!!!");
