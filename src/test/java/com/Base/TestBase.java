@@ -3,11 +3,13 @@ package com.Base;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import java.io.IOException;
+
 
 public class TestBase {
     public static WebDriver driver;
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException{
         chromeLaunch();
         chromeClose();
         //firefoxLaunch();
@@ -24,7 +26,7 @@ public class TestBase {
         driver=new FirefoxDriver();
         System.out.println("Firefox Launch Successfully!!!");
     }*/
-    public static void openTestURL(String URL){
+    public static void openTestURL(String URL) {
         driver.get(URL);
     }
     public static void chromeClose(){
