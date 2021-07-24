@@ -4,8 +4,10 @@ import com.Base.TestBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
+import java.io.IOException;
+
 public class Register extends TestBase {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         chromeLaunch();
        // TC_001_valid();
         TC_002_valid();
@@ -49,7 +51,7 @@ public class Register extends TestBase {
         }
     }
 
-    public static void TC_002_valid() {
+    public static void TC_002_valid() throws IOException {
         driver.get("https://demo.opencart.com/index.php?route=account/register");
         WebElement Firstname = driver.findElement(By.id("input-firstname"));
         Firstname.sendKeys("asdfghjklmnbvcxzqwertyuiolpkjh");

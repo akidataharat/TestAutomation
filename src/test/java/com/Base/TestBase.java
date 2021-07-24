@@ -27,6 +27,7 @@ public class TestBase {
         System.out.println("Firefox Launch Successfully!!!");
     }*/
     public static void openTestURL(String URL) {
+
         driver.get(URL);
     }
     public static void chromeClose(){
