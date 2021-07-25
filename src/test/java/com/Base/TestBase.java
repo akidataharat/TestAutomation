@@ -1,9 +1,12 @@
 package com.Base;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.io.IOException;
+import java.util.concurrent.TimeUnit;
 
 
 public class TestBase {
@@ -30,6 +33,42 @@ public class TestBase {
 
         driver.get(URL);
     }
+    public static WebElement elementByCSS(String locator){
+      return driver.findElement(By.cssSelector(locator));
+
+    }
+    public static WebElement elementByXpath(String locator){
+        return driver.findElement(By.xpath(locator));
+
+    }
+    public static WebElement elementById(String locator){
+        return driver.findElement(By.id(locator));
+
+    }
+    public static WebElement elementByName(String locator){
+        return driver.findElement(By.name(locator));
+
+    }
+    public static void getElementByCssAndClick(String locator){
+
+        driver.findElement(By.cssSelector(locator)).click();
+
+    }
+    public static void getElementByCssAndType(String locator, String text){
+
+        driver.findElement(By.cssSelector(locator)).sendKeys(text);
+
+    }
+
+    public static void alertAccept(){
+        driver.switchTo().alert().accept();
+    }
+
+    public static void alertCancel(){
+        driver.switchTo().alert().dismiss();
+    }
+
+
     public static void chromeClose(){
         driver.close();
         System.out.println("Chrome Closed!!!");
