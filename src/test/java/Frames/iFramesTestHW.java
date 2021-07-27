@@ -9,7 +9,6 @@ public class iFramesTestHW extends TestBase {
      chromeLaunch();
      openTestURL("https://www.w3schools.com/html/html_iframe.asp");
     singleFrames();
-
     chromeClose();
     }
     public static void singleFrames(){
