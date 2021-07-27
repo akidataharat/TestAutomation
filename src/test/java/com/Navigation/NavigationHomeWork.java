@@ -1,12 +1,13 @@
 package com.Navigation;
 
 import com.Base.TestBase;
+import com.EndToEndTestAutomation.EndToEndTest;
 import com.OpenCart.Register;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-
+import java.net.URL;
 
 
 public class NavigationHomeWork extends TestBase {
@@ -14,15 +15,15 @@ public class NavigationHomeWork extends TestBase {
     public static void main(String[] args){
         chromeLaunch();
         openTestURL("https://demo.opencart.com/");
-        navigateTo("https://demo.opencart.com/index.php?route=account/register");
-        Register.TC_001_valid();
+        navigateTo();
+        EndToEndTest.NewRegistration();
         navigateBack();
         navigateForward();
         navigateRefresh();
         chromeClose();
     }
-    public static void navigateTo(String URL){
-        driver.navigate().to(URL);
+    public static void navigateTo(){
+        driver.navigate().to("https://demo.opencart.com/index.php?route=account/register");
         System.out.println("Navigate to " +driver.getTitle());
     }
 
