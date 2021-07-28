@@ -13,6 +13,7 @@
         <maven.compiler.target>8</maven.compiler.target>
         <selenium-version>4.0.0-beta-4</selenium-version>
         <commonsIO-version>2.11.0</commonsIO-version>
+        <ashot-version>1.5.4</ashot-version>
     </properties>
 
     <dependencies>
@@ -30,6 +31,14 @@
             <artifactId>commons-io</artifactId>
             <version>${commonsIO-version}</version>
         </dependency>
+
+        <!-- https://mvnrepository.com/artifact/ru.yandex.qatools.ashot/ashot -->
+        <dependency>
+            <groupId>ru.yandex.qatools.ashot</groupId>
+            <artifactId>ashot</artifactId>
+            <version>${ashot-version}</version>
+        </dependency>
+
 
     </dependencies>
 
