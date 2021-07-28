@@ -64,9 +64,14 @@ public class TestBase {
         driver.findElement(By.cssSelector(locator)).sendKeys(text);
 
     }
-    public static void getElementByIdAndType(String locator, String text){
+    public static void getElementByIdAndType(String locator, String text) {
 
         driver.findElement(By.id(locator)).sendKeys(text);
+    }
+
+        public static void getElementByIdAndClick(String locator){
+
+            driver.findElement(By.id(locator)).click();
 
     }
     public static void getElementByXpathAndType(String locator, String text){

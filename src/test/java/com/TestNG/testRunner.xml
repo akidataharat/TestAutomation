@@ -4,8 +4,9 @@
 <test name="TestNG Test">
 
 <classes>
-    <class name="com.TestNG.TestNGBasic"></class>
-    <class name="com.TestNG.AnnotationsOrder"></class>
+
+    <class name="com.TestNG.LoginTestAdvance"></class>
+
 </classes>
 
 </test>
