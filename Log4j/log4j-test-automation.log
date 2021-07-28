@@ -1,0 +1,9 @@
+[INFO ] 2021-07-28 17:53:43.782 [main] Log - Open login URL
+[INFO ] 2021-07-28 17:53:46.862 [main] Log - Type Email
+[INFO ] 2021-07-28 17:53:47.075 [main] Log - Type password
+[INFO ] 2021-07-28 17:53:51.126 [main] Log - Click on Login Button
+[INFO ] 2021-07-28 17:53:51.137 [main] Log - Test Passed for valid Data.
+[INFO ] 2021-07-28 18:02:27.673 [main] Log - Open login URL
+[INFO ] 2021-07-28 18:02:30.633 [main] Log - Type Email
+[INFO ] 2021-07-28 18:02:30.841 [main] Log - Type password
+[INFO ] 2021-07-28 18:03:05.585 [main] Log - Click on Login Button
