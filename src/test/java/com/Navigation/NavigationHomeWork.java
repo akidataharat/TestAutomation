@@ -7,6 +7,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+import java.io.IOException;
 import java.net.URL;
 
 
@@ -19,7 +20,7 @@ public class NavigationHomeWork extends TestBase {
         EndToEndTest.NewRegistration();
         navigateBack();
         navigateForward();
-        navigateRefresh();
+        //navigateRefresh();
         chromeClose();
     }
     public static void navigateTo(){

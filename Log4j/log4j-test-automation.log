@@ -1,48 +1,104 @@
-[INFO ] 2021-07-29 00:27:48.539 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-07-29 00:28:36.765 [main] Log - Login page open successfully
-[INFO ] 2021-07-29 00:28:37.997 [main] Log - Type Email
-[INFO ] 2021-07-29 00:28:38.145 [main] Log - Type password
-[INFO ] 2021-07-29 00:29:03.110 [main] Log - Click on Login Button
-[INFO ] 2021-07-29 00:29:30.859 [main] Log - Chrome close successfully.
-[INFO ] 2021-07-29 00:31:17.771 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-07-29 00:32:07.163 [main] Log - Login page open successfully
-[INFO ] 2021-07-29 00:32:09.046 [main] Log - Type Email
-[INFO ] 2021-07-29 00:32:09.263 [main] Log - Type password
-[INFO ] 2021-07-29 00:32:12.654 [main] Log - Click on Login Button
-[INFO ] 2021-07-29 00:32:18.606 [main] Log - Chrome close successfully.
-[INFO ] 2021-07-29 00:44:23.030 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-07-29 00:44:31.200 [main] Log - Login page open successfully
-[INFO ] 2021-07-29 00:44:33.250 [main] Log - Type Email
-[INFO ] 2021-07-29 00:44:33.592 [main] Log - Type password
-[INFO ] 2021-07-29 00:44:37.563 [main] Log - Click on Login Button
-[INFO ] 2021-07-29 00:44:40.098 [main] Log - Chrome close successfully.
-[INFO ] 2021-07-29 01:06:09.457 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-07-29 01:06:35.668 [main] Log - Login page open successfully
-[INFO ] 2021-07-29 01:06:37.281 [main] Log - Type Email
-[INFO ] 2021-07-29 01:06:37.441 [main] Log - Type password
-[INFO ] 2021-07-29 01:07:01.815 [main] Log - Click on Login Button
-[INFO ] 2021-07-29 01:07:06.862 [main] Log - Chrome close successfully.
-[INFO ] 2021-07-29 01:09:08.297 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-07-29 01:09:53.938 [main] Log - Login page open successfully
-[INFO ] 2021-07-29 01:09:55.760 [main] Log - Type Email
-[INFO ] 2021-07-29 01:09:55.948 [main] Log - Type password
-[INFO ] 2021-07-29 01:10:19.944 [main] Log - Click on Login Button
-[INFO ] 2021-07-29 01:10:23.784 [main] Log - Chrome close successfully.
-[INFO ] 2021-07-29 01:10:30.118 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-07-29 01:10:34.583 [main] Log - Login page open successfully
-[INFO ] 2021-07-29 01:10:34.777 [main] Log - Type Email
-[INFO ] 2021-07-29 01:10:34.897 [main] Log - Type password
-[INFO ] 2021-07-29 01:10:37.462 [main] Log - Click on Login Button
-[INFO ] 2021-07-29 01:10:38.164 [main] Log - Chrome close successfully.
-[INFO ] 2021-07-29 01:13:37.067 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-07-29 01:13:41.942 [main] Log - Login page open successfully
-[INFO ] 2021-07-29 01:13:43.390 [main] Log - Type Email
-[INFO ] 2021-07-29 01:13:43.547 [main] Log - Type password
-[INFO ] 2021-07-29 01:13:46.410 [main] Log - Click on Login Button
-[INFO ] 2021-07-29 01:13:49.555 [main] Log - Chrome close successfully.
-[INFO ] 2021-07-29 01:13:54.701 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-07-29 01:13:58.004 [main] Log - Login page open successfully
-[INFO ] 2021-07-29 01:13:58.171 [main] Log - Type Email
-[INFO ] 2021-07-29 01:13:58.293 [main] Log - Type password
-[INFO ] 2021-07-29 01:13:59.793 [main] Log - Click on Login Button
-[INFO ] 2021-07-29 01:14:00.641 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 17:47:51.940 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 17:48:01.280 [main] Log - Login page open successfully
+[INFO ] 2021-07-30 17:48:02.930 [main] Log - Type Email
+[INFO ] 2021-07-30 17:48:03.175 [main] Log - Type password
+[INFO ] 2021-07-30 17:48:07.178 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 17:48:11.211 [main] Log - Type Email
+[INFO ] 2021-07-30 17:48:11.327 [main] Log - Type password
+[INFO ] 2021-07-30 17:48:12.868 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 17:48:16.700 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 17:51:50.114 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 17:52:38.185 [main] Log - Login page open successfully
+[INFO ] 2021-07-30 17:52:39.602 [main] Log - Type Email
+[INFO ] 2021-07-30 17:52:39.757 [main] Log - Type password
+[INFO ] 2021-07-30 17:53:03.949 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 17:53:07.879 [main] Log - Type Email
+[INFO ] 2021-07-30 17:53:07.964 [main] Log - Type password
+[INFO ] 2021-07-30 17:53:09.439 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 17:53:11.187 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 17:58:31.040 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 17:59:18.267 [main] Log - Login page open successfully
+[INFO ] 2021-07-30 17:59:19.353 [main] Log - Type Email
+[INFO ] 2021-07-30 17:59:19.498 [main] Log - Type password
+[INFO ] 2021-07-30 17:59:22.273 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 17:59:26.424 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 17:59:33.829 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 18:00:00.274 [main] Log - Login page open successfully
+[INFO ] 2021-07-30 18:00:03.731 [main] Log - Type Email
+[INFO ] 2021-07-30 18:00:03.990 [main] Log - Type password
+[INFO ] 2021-07-30 18:00:06.941 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 18:00:08.220 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 18:00:14.479 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 18:00:40.575 [main] Log - Login page open successfully
+[INFO ] 2021-07-30 18:00:42.188 [main] Log - Type Email
+[INFO ] 2021-07-30 18:00:42.428 [main] Log - Type password
+[INFO ] 2021-07-30 18:00:45.624 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 18:00:49.658 [main] Log - Type Email
+[INFO ] 2021-07-30 18:00:49.779 [main] Log - Type password
+[INFO ] 2021-07-30 18:00:51.209 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 18:00:52.160 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 18:18:19.540 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 18:18:45.321 [main] Log - Login page open successfully
+[INFO ] 2021-07-30 18:18:47.262 [main] Log - Type Email
+[INFO ] 2021-07-30 18:18:47.567 [main] Log - Type password
+[INFO ] 2021-07-30 18:19:11.872 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 18:19:17.019 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 18:19:22.001 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 18:19:26.570 [main] Log - Login page open successfully
+[INFO ] 2021-07-30 18:19:26.744 [main] Log - Type Email
+[INFO ] 2021-07-30 18:19:26.868 [main] Log - Type password
+[INFO ] 2021-07-30 18:19:28.515 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 18:19:29.174 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 18:19:32.099 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 18:19:35.207 [main] Log - Login page open successfully
+[INFO ] 2021-07-30 18:19:35.371 [main] Log - Type Email
+[INFO ] 2021-07-30 18:19:35.477 [main] Log - Type password
+[INFO ] 2021-07-30 18:19:38.136 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 18:19:42.298 [main] Log - Type Email
+[INFO ] 2021-07-30 18:19:42.443 [main] Log - Type password
+[INFO ] 2021-07-30 18:19:44.004 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 18:19:44.648 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 19:32:03.848 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 19:32:18.757 [main] Log - Login page open successfully
+[INFO ] 2021-07-30 19:32:20.637 [main] Log - Type Email
+[INFO ] 2021-07-30 19:32:20.831 [main] Log - Type password
+[INFO ] 2021-07-30 19:32:24.412 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 19:32:29.922 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 19:32:36.620 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 19:32:44.771 [main] Log - Login page open successfully
+[INFO ] 2021-07-30 19:32:44.898 [main] Log - Type Email
+[INFO ] 2021-07-30 19:32:45.004 [main] Log - Type password
+[INFO ] 2021-07-30 19:32:46.630 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 19:32:48.094 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 20:48:54.264 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 20:49:03.352 [main] Log - Login page open successfully
+[INFO ] 2021-07-30 20:49:06.119 [main] Log - Type Email
+[INFO ] 2021-07-30 20:49:06.297 [main] Log - Type password
+[INFO ] 2021-07-30 20:49:10.706 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 20:49:17.758 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 20:53:27.588 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 20:53:33.845 [main] Log - Login page open successfully
+[INFO ] 2021-07-30 20:53:35.752 [main] Log - Type Email
+[INFO ] 2021-07-30 20:53:35.853 [main] Log - Type password
+[INFO ] 2021-07-30 20:53:39.429 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 20:53:47.796 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 21:03:13.631 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 21:04:05.765 [main] Log - Login page open successfully
+[INFO ] 2021-07-30 21:04:08.065 [main] Log - Type Email
+[INFO ] 2021-07-30 21:04:08.251 [main] Log - Type password
+[INFO ] 2021-07-30 21:04:13.222 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 21:04:22.969 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 21:06:28.085 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 21:07:38.235 [main] Log - Login page open successfully
+[INFO ] 2021-07-30 21:07:38.905 [main] Log - Type Email
+[INFO ] 2021-07-30 21:07:39.057 [main] Log - Type password
+[INFO ] 2021-07-30 21:07:41.687 [main] Log - Click on Login Button
+[INFO ] 2021-07-30 21:07:46.106 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 22:23:53.665 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 22:24:01.464 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 22:30:39.180 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 22:31:09.322 [main] Log - Registration page open successfully
+[INFO ] 2021-07-30 22:31:45.810 [main] Log - Chrome close successfully.
+[INFO ] 2021-07-30 22:34:04.000 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-07-30 22:34:09.227 [main] Log - Registration page open successfully
+[INFO ] 2021-07-30 22:34:19.140 [main] Log - Chrome close successfully.

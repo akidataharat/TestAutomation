@@ -1,7 +1,9 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+
 <suite name="First Test suite">
 
-<test name="TestNG Test">
+<test name="Login Valid Test">
 
 <classes>
 
@@ -11,6 +13,16 @@
 
 </test>
 
+
+    <test name="Login Invalid Test">
+
+        <classes>
+
+            <class name="com.TestNG.LoginTestAdvance2"></class>
+
+        </classes>
+
+    </test>
 
 
 </suite>

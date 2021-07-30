@@ -36,7 +36,8 @@ public class TestBase {
     }
 
     public static WebElement elementByCSS(String locator){
-      return driver.findElement(By.cssSelector(locator));
+
+        return driver.findElement(By.cssSelector(locator));
     }
 
     public static WebElement elementByXpath(String locator){
