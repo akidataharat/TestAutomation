@@ -1,0 +1,14 @@
+[INFO ] 2021-08-06 12:50:42.515 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-08-06 12:52:05.335 [main] Log - Login page open successfully
+[INFO ] 2021-08-06 12:52:08.703 [main] Log - Type Email:mail@mail.com
+[INFO ] 2021-08-06 12:52:08.980 [main] Log - Type password:1226565445
+[INFO ] 2021-08-06 12:52:33.852 [main] Log - Click on Login Button
+[INFO ] 2021-08-06 12:52:57.115 [main] Log - Login page open successfully
+[INFO ] 2021-08-06 12:52:57.277 [main] Log - Type Email:mail@test
+[INFO ] 2021-08-06 12:52:57.469 [main] Log - Type password:343
+[INFO ] 2021-08-06 12:52:58.945 [main] Log - Click on Login Button
+[INFO ] 2021-08-06 12:53:00.189 [main] Log - Login page open successfully
+[INFO ] 2021-08-06 12:53:00.391 [main] Log - Type Email:jhhfdg@com
+[INFO ] 2021-08-06 12:53:00.604 [main] Log - Type password:870764
+[INFO ] 2021-08-06 12:53:02.110 [main] Log - Click on Login Button
+[INFO ] 2021-08-06 12:53:03.881 [main] Log - Chrome close successfully.
