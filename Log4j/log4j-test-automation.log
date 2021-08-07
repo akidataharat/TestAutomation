@@ -80,3 +80,117 @@
 [INFO ] 2021-08-07 12:06:03.176 [main] Log - Type password:123456
 [INFO ] 2021-08-07 12:06:06.098 [main] Log - Click on Login Button
 [INFO ] 2021-08-07 12:06:09.460 [main] Log - Chrome close successfully.
+[INFO ] 2021-08-07 19:56:14.005 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-08-07 19:56:25.624 [main] Log - Registration page opened successfully
+[INFO ] 2021-08-07 19:56:53.919 [main] Log - Type Firstname:akida
+[INFO ] 2021-08-07 19:56:55.952 [main] Log - Type Lastname:taharat
+[INFO ] 2021-08-07 19:56:56.198 [main] Log - Type Email:akida@gmail.com
+[INFO ] 2021-08-07 19:56:57.269 [main] Log - Type Telephone:1234567890
+[INFO ] 2021-08-07 19:56:57.416 [main] Log - Type password:123456
+[INFO ] 2021-08-07 19:56:57.565 [main] Log - Type confirm password:123456
+[INFO ] 2021-08-07 19:56:59.044 [main] Log - clicked policy button
+[INFO ] 2021-08-07 19:57:12.902 [main] Log - clicked continue button
+[INFO ] 2021-08-07 19:57:30.095 [main] Log - Chrome close successfully.
+[INFO ] 2021-08-07 19:59:42.661 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-08-07 19:59:47.940 [main] Log - Registration page opened successfully
+[INFO ] 2021-08-07 20:00:02.495 [main] Log - Type Firstname:akida
+[INFO ] 2021-08-07 20:00:02.834 [main] Log - Type Lastname:taharat
+[INFO ] 2021-08-07 20:00:03.022 [main] Log - Type Email:akida@gmail.com
+[INFO ] 2021-08-07 20:00:03.574 [main] Log - Type Telephone:1234567890
+[INFO ] 2021-08-07 20:00:03.858 [main] Log - Type password:123456
+[INFO ] 2021-08-07 20:00:04.008 [main] Log - Type confirm password:123456
+[INFO ] 2021-08-07 20:00:04.960 [main] Log - clicked policy button
+[INFO ] 2021-08-07 20:00:08.446 [main] Log - clicked continue button
+[INFO ] 2021-08-07 20:00:11.379 [main] Log - Chrome close successfully.
+[INFO ] 2021-08-07 20:10:20.457 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-08-07 20:10:26.294 [main] Log - Registration page opened successfully
+[INFO ] 2021-08-07 20:10:38.404 [main] Log - Type Firstname:akida
+[INFO ] 2021-08-07 20:10:38.568 [main] Log - Type Lastname:taharat
+[INFO ] 2021-08-07 20:10:38.748 [main] Log - Type Email:akida@gmail.com
+[INFO ] 2021-08-07 20:10:38.983 [main] Log - Type Telephone:1234567890
+[INFO ] 2021-08-07 20:10:39.188 [main] Log - Type password:123456
+[INFO ] 2021-08-07 20:10:39.332 [main] Log - Type confirm password:123456
+[INFO ] 2021-08-07 20:10:39.913 [main] Log - clicked policy button
+[INFO ] 2021-08-07 20:10:41.718 [main] Log - clicked continue button
+[INFO ] 2021-08-07 20:10:46.736 [main] Log - Chrome close successfully.
+[INFO ] 2021-08-07 20:14:32.275 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-08-07 20:14:37.233 [main] Log - Registration page opened successfully
+[INFO ] 2021-08-07 20:14:46.760 [main] Log - Type Firstname:akida
+[INFO ] 2021-08-07 20:14:47.135 [main] Log - Type Lastname:taharat
+[INFO ] 2021-08-07 20:14:47.264 [main] Log - Type Email:akida@gmail.com
+[INFO ] 2021-08-07 20:14:47.421 [main] Log - Type Telephone:1234567890
+[INFO ] 2021-08-07 20:14:47.561 [main] Log - Type password:123456
+[INFO ] 2021-08-07 20:14:47.700 [main] Log - Type confirm password:123456
+[INFO ] 2021-08-07 20:14:47.801 [main] Log - clicked policy button
+[INFO ] 2021-08-07 20:14:49.398 [main] Log - clicked continue button
+[INFO ] 2021-08-07 20:14:52.783 [main] Log - Chrome close successfully.
+[INFO ] 2021-08-07 20:19:36.261 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-08-07 20:19:39.955 [main] Log - Registration page opened successfully
+[INFO ] 2021-08-07 20:19:51.685 [main] Log - Type Firstname:akida
+[INFO ] 2021-08-07 20:19:52.028 [main] Log - Type Lastname:taharat
+[INFO ] 2021-08-07 20:19:52.197 [main] Log - Type Email:akida@gmail.com
+[INFO ] 2021-08-07 20:19:52.365 [main] Log - Type Telephone:1234567890
+[INFO ] 2021-08-07 20:19:52.514 [main] Log - Type password:123456
+[INFO ] 2021-08-07 20:19:52.670 [main] Log - Type confirm password:123456
+[INFO ] 2021-08-07 20:19:52.764 [main] Log - clicked policy button
+[INFO ] 2021-08-07 20:19:54.503 [main] Log - clicked continue button
+[INFO ] 2021-08-07 20:19:54.881 [main] Log - Type Firstname:abida
+[INFO ] 2021-08-07 20:19:55.039 [main] Log - Type Lastname:taharat
+[INFO ] 2021-08-07 20:19:55.214 [main] Log - Type Email:abida@gmail.com
+[INFO ] 2021-08-07 20:19:55.348 [main] Log - Type Telephone:1234567892
+[INFO ] 2021-08-07 20:19:55.512 [main] Log - Type password:1234567
+[INFO ] 2021-08-07 20:19:55.648 [main] Log - Type confirm password:1234567
+[INFO ] 2021-08-07 20:19:55.826 [main] Log - clicked policy button
+[INFO ] 2021-08-07 20:19:57.221 [main] Log - clicked continue button
+[INFO ] 2021-08-07 20:19:57.376 [main] Log - Type Firstname:anika
+[INFO ] 2021-08-07 20:19:57.620 [main] Log - Type Lastname:nawar
+[INFO ] 2021-08-07 20:19:57.777 [main] Log - Type Email:anika@gmail.com
+[INFO ] 2021-08-07 20:19:57.924 [main] Log - Type Telephone:1234567896
+[INFO ] 2021-08-07 20:19:58.062 [main] Log - Type password:12345678
+[INFO ] 2021-08-07 20:19:58.218 [main] Log - Type confirm password:12345678
+[INFO ] 2021-08-07 20:19:58.322 [main] Log - clicked policy button
+[INFO ] 2021-08-07 20:19:59.679 [main] Log - clicked continue button
+[INFO ] 2021-08-07 20:19:59.826 [main] Log - Type Firstname:raz
+[INFO ] 2021-08-07 20:19:59.974 [main] Log - Type Lastname:meera
+[INFO ] 2021-08-07 20:20:00.149 [main] Log - Type Email:raz@gmail.com
+[INFO ] 2021-08-07 20:20:00.327 [main] Log - Type Telephone:1234567897
+[INFO ] 2021-08-07 20:20:00.510 [main] Log - Type password:1234567
+[INFO ] 2021-08-07 20:20:00.668 [main] Log - Type confirm password:1234567
+[INFO ] 2021-08-07 20:20:00.778 [main] Log - clicked policy button
+[INFO ] 2021-08-07 20:20:02.365 [main] Log - clicked continue button
+[INFO ] 2021-08-07 20:20:04.417 [main] Log - Chrome close successfully.
+[INFO ] 2021-08-07 20:26:15.967 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-08-07 20:26:19.306 [main] Log - Registration page opened successfully
+[INFO ] 2021-08-07 20:26:28.419 [main] Log - Type Firstname:akida
+[INFO ] 2021-08-07 20:26:28.641 [main] Log - Type Lastname:taharat
+[INFO ] 2021-08-07 20:26:28.832 [main] Log - Type Email:akida@gmail.com
+[INFO ] 2021-08-07 20:26:28.983 [main] Log - Type Telephone:1234567890
+[INFO ] 2021-08-07 20:26:29.157 [main] Log - Type password:123456
+[INFO ] 2021-08-07 20:26:29.311 [main] Log - Type confirm password:123456
+[INFO ] 2021-08-07 20:26:29.401 [main] Log - clicked policy button
+[INFO ] 2021-08-07 20:26:30.829 [main] Log - clicked continue button
+[INFO ] 2021-08-07 20:26:44.507 [main] Log - Type Firstname:abida
+[INFO ] 2021-08-07 20:26:44.643 [main] Log - Type Lastname:taharat
+[INFO ] 2021-08-07 20:26:44.811 [main] Log - Type Email:abida@gmail.com
+[INFO ] 2021-08-07 20:26:45.066 [main] Log - Type Telephone:1234567892
+[INFO ] 2021-08-07 20:26:45.245 [main] Log - Type password:1234567
+[INFO ] 2021-08-07 20:26:45.395 [main] Log - Type confirm password:1234567
+[INFO ] 2021-08-07 20:26:45.480 [main] Log - clicked policy button
+[INFO ] 2021-08-07 20:26:47.003 [main] Log - clicked continue button
+[INFO ] 2021-08-07 20:26:49.147 [main] Log - Type Firstname:anika
+[INFO ] 2021-08-07 20:26:49.268 [main] Log - Type Lastname:nawar
+[INFO ] 2021-08-07 20:26:49.413 [main] Log - Type Email:anika@gmail.com
+[INFO ] 2021-08-07 20:26:49.552 [main] Log - Type Telephone:1234567896
+[INFO ] 2021-08-07 20:26:49.685 [main] Log - Type password:12345678
+[INFO ] 2021-08-07 20:26:49.824 [main] Log - Type confirm password:12345678
+[INFO ] 2021-08-07 20:26:49.901 [main] Log - clicked policy button
+[INFO ] 2021-08-07 20:26:51.314 [main] Log - clicked continue button
+[INFO ] 2021-08-07 20:26:51.652 [main] Log - Type Firstname:raz
+[INFO ] 2021-08-07 20:26:51.778 [main] Log - Type Lastname:meera
+[INFO ] 2021-08-07 20:26:51.918 [main] Log - Type Email:raz@gmail.com
+[INFO ] 2021-08-07 20:26:52.056 [main] Log - Type Telephone:1234567897
+[INFO ] 2021-08-07 20:26:52.205 [main] Log - Type password:1234567
+[INFO ] 2021-08-07 20:26:52.419 [main] Log - Type confirm password:1234567
+[INFO ] 2021-08-07 20:26:52.493 [main] Log - clicked policy button
+[INFO ] 2021-08-07 20:26:53.957 [main] Log - clicked continue button
+[INFO ] 2021-08-07 20:27:08.034 [main] Log - Chrome close successfully.
