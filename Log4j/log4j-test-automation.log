@@ -1,196 +1,30 @@
-[INFO ] 2021-08-07 11:21:11.843 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-08-07 11:22:38.480 [main] Log - Login page open successfully
-[INFO ] 2021-08-07 11:22:40.341 [main] Log - Type Email:mail@mail.com
-[INFO ] 2021-08-07 11:22:40.500 [main] Log - Type password:1226565445
-[INFO ] 2021-08-07 11:22:43.424 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 11:23:06.172 [main] Log - Login page open successfully
-[INFO ] 2021-08-07 11:23:06.334 [main] Log - Type Email:mail@test
-[INFO ] 2021-08-07 11:23:06.501 [main] Log - Type password:343
-[INFO ] 2021-08-07 11:23:07.843 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 11:23:08.947 [main] Log - Login page open successfully
-[INFO ] 2021-08-07 11:23:09.103 [main] Log - Type Email:jhhfdg@com
-[INFO ] 2021-08-07 11:23:09.261 [main] Log - Type password:870764
-[INFO ] 2021-08-07 11:23:10.578 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 11:23:16.646 [main] Log - Chrome close successfully.
-[INFO ] 2021-08-07 11:37:45.904 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-08-07 11:38:10.177 [main] Log - Login page open successfully
-[INFO ] 2021-08-07 11:38:16.765 [main] Log - Type Email:row 2 or column Email does not exist in xls
-[INFO ] 2021-08-07 11:38:16.982 [main] Log - Type password:row 2 or column Password does not exist in xls
-[INFO ] 2021-08-07 11:38:39.700 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 11:38:40.069 [main] Log - Type Email:row 3 or column Email does not exist in xls
-[INFO ] 2021-08-07 11:38:40.308 [main] Log - Type password:row 3 or column Password does not exist in xls
-[INFO ] 2021-08-07 11:38:41.788 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 11:38:42.056 [main] Log - Type Email:row 4 or column Email does not exist in xls
-[INFO ] 2021-08-07 11:38:42.314 [main] Log - Type password:row 4 or column Password does not exist in xls
-[INFO ] 2021-08-07 11:39:04.887 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 11:39:09.120 [main] Log - Chrome close successfully.
-[INFO ] 2021-08-07 11:45:23.194 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-08-07 11:45:28.119 [main] Log - Login page open successfully
-[INFO ] 2021-08-07 11:45:39.466 [main] Log - Type Email:row 2 or column Email does not exist in xls
-[INFO ] 2021-08-07 11:45:39.817 [main] Log - Type password:row 2 or column Password does not exist in xls
-[INFO ] 2021-08-07 11:45:42.245 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 11:45:42.791 [main] Log - Type Email:row 3 or column Email does not exist in xls
-[INFO ] 2021-08-07 11:45:43.059 [main] Log - Type password:row 3 or column Password does not exist in xls
-[INFO ] 2021-08-07 11:45:44.526 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 11:45:44.885 [main] Log - Type Email:row 4 or column Email does not exist in xls
-[INFO ] 2021-08-07 11:45:45.093 [main] Log - Type password:row 4 or column Password does not exist in xls
-[INFO ] 2021-08-07 11:45:46.419 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 11:45:50.414 [main] Log - Chrome close successfully.
-[INFO ] 2021-08-07 11:49:04.971 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-08-07 11:49:55.315 [main] Log - Login page open successfully
-[INFO ] 2021-08-07 11:50:01.714 [main] Log - Type Email:row 2 or column Email does not exist in xls
-[INFO ] 2021-08-07 11:50:02.073 [main] Log - Type password:row 2 or column Password does not exist in xls
-[INFO ] 2021-08-07 11:50:05.303 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 11:56:07.309 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-08-07 11:56:33.221 [main] Log - Login page open successfully
-[INFO ] 2021-08-07 11:56:38.734 [main] Log - Type Email:email11@test
-[INFO ] 2021-08-07 11:56:38.901 [main] Log - Type password:123456
-[INFO ] 2021-08-07 11:57:01.802 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 11:57:10.192 [main] Log - Type Email:email22@test
-[INFO ] 2021-08-07 11:57:10.431 [main] Log - Type password:123456
-[INFO ] 2021-08-07 11:57:32.963 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 11:57:33.698 [main] Log - Type Email:email33@test
-[INFO ] 2021-08-07 11:57:33.836 [main] Log - Type password:123456
-[INFO ] 2021-08-07 11:57:35.179 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 11:57:38.596 [main] Log - Chrome close successfully.
-[INFO ] 2021-08-07 12:03:06.074 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-08-07 12:03:29.565 [main] Log - Login page open successfully
-[INFO ] 2021-08-07 12:03:34.107 [main] Log - Type Email:email@gmail
-[INFO ] 2021-08-07 12:03:34.266 [main] Log - Type password:123456
-[INFO ] 2021-08-07 12:03:56.754 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 12:03:59.280 [main] Log - Type Email:test@gmail
-[INFO ] 2021-08-07 12:03:59.425 [main] Log - Type password:123456
-[INFO ] 2021-08-07 12:04:00.798 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 12:04:01.282 [main] Log - Type Email:com01@mail
-[INFO ] 2021-08-07 12:04:01.426 [main] Log - Type password:123456
-[INFO ] 2021-08-07 12:04:02.763 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 12:04:05.031 [main] Log - Chrome close successfully.
-[INFO ] 2021-08-07 12:05:07.153 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-08-07 12:05:30.497 [main] Log - Login page open successfully
-[INFO ] 2021-08-07 12:05:34.861 [main] Log - Type Email:email@gmail
-[INFO ] 2021-08-07 12:05:35.013 [main] Log - Type password:123456
-[INFO ] 2021-08-07 12:05:36.392 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 12:05:38.186 [main] Log - Type Email:test@gmail
-[INFO ] 2021-08-07 12:05:38.328 [main] Log - Type password:123456
-[INFO ] 2021-08-07 12:06:00.807 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 12:06:01.188 [main] Log - Type Email:com01@mail
-[INFO ] 2021-08-07 12:06:01.374 [main] Log - Type password:123456
-[INFO ] 2021-08-07 12:06:02.752 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 12:06:03.043 [main] Log - Type Email:user101@gmail.com
-[INFO ] 2021-08-07 12:06:03.176 [main] Log - Type password:123456
-[INFO ] 2021-08-07 12:06:06.098 [main] Log - Click on Login Button
-[INFO ] 2021-08-07 12:06:09.460 [main] Log - Chrome close successfully.
-[INFO ] 2021-08-07 19:56:14.005 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-08-07 19:56:25.624 [main] Log - Registration page opened successfully
-[INFO ] 2021-08-07 19:56:53.919 [main] Log - Type Firstname:akida
-[INFO ] 2021-08-07 19:56:55.952 [main] Log - Type Lastname:taharat
-[INFO ] 2021-08-07 19:56:56.198 [main] Log - Type Email:akida@gmail.com
-[INFO ] 2021-08-07 19:56:57.269 [main] Log - Type Telephone:1234567890
-[INFO ] 2021-08-07 19:56:57.416 [main] Log - Type password:123456
-[INFO ] 2021-08-07 19:56:57.565 [main] Log - Type confirm password:123456
-[INFO ] 2021-08-07 19:56:59.044 [main] Log - clicked policy button
-[INFO ] 2021-08-07 19:57:12.902 [main] Log - clicked continue button
-[INFO ] 2021-08-07 19:57:30.095 [main] Log - Chrome close successfully.
-[INFO ] 2021-08-07 19:59:42.661 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-08-07 19:59:47.940 [main] Log - Registration page opened successfully
-[INFO ] 2021-08-07 20:00:02.495 [main] Log - Type Firstname:akida
-[INFO ] 2021-08-07 20:00:02.834 [main] Log - Type Lastname:taharat
-[INFO ] 2021-08-07 20:00:03.022 [main] Log - Type Email:akida@gmail.com
-[INFO ] 2021-08-07 20:00:03.574 [main] Log - Type Telephone:1234567890
-[INFO ] 2021-08-07 20:00:03.858 [main] Log - Type password:123456
-[INFO ] 2021-08-07 20:00:04.008 [main] Log - Type confirm password:123456
-[INFO ] 2021-08-07 20:00:04.960 [main] Log - clicked policy button
-[INFO ] 2021-08-07 20:00:08.446 [main] Log - clicked continue button
-[INFO ] 2021-08-07 20:00:11.379 [main] Log - Chrome close successfully.
-[INFO ] 2021-08-07 20:10:20.457 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-08-07 20:10:26.294 [main] Log - Registration page opened successfully
-[INFO ] 2021-08-07 20:10:38.404 [main] Log - Type Firstname:akida
-[INFO ] 2021-08-07 20:10:38.568 [main] Log - Type Lastname:taharat
-[INFO ] 2021-08-07 20:10:38.748 [main] Log - Type Email:akida@gmail.com
-[INFO ] 2021-08-07 20:10:38.983 [main] Log - Type Telephone:1234567890
-[INFO ] 2021-08-07 20:10:39.188 [main] Log - Type password:123456
-[INFO ] 2021-08-07 20:10:39.332 [main] Log - Type confirm password:123456
-[INFO ] 2021-08-07 20:10:39.913 [main] Log - clicked policy button
-[INFO ] 2021-08-07 20:10:41.718 [main] Log - clicked continue button
-[INFO ] 2021-08-07 20:10:46.736 [main] Log - Chrome close successfully.
-[INFO ] 2021-08-07 20:14:32.275 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-08-07 20:14:37.233 [main] Log - Registration page opened successfully
-[INFO ] 2021-08-07 20:14:46.760 [main] Log - Type Firstname:akida
-[INFO ] 2021-08-07 20:14:47.135 [main] Log - Type Lastname:taharat
-[INFO ] 2021-08-07 20:14:47.264 [main] Log - Type Email:akida@gmail.com
-[INFO ] 2021-08-07 20:14:47.421 [main] Log - Type Telephone:1234567890
-[INFO ] 2021-08-07 20:14:47.561 [main] Log - Type password:123456
-[INFO ] 2021-08-07 20:14:47.700 [main] Log - Type confirm password:123456
-[INFO ] 2021-08-07 20:14:47.801 [main] Log - clicked policy button
-[INFO ] 2021-08-07 20:14:49.398 [main] Log - clicked continue button
-[INFO ] 2021-08-07 20:14:52.783 [main] Log - Chrome close successfully.
-[INFO ] 2021-08-07 20:19:36.261 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-08-07 20:19:39.955 [main] Log - Registration page opened successfully
-[INFO ] 2021-08-07 20:19:51.685 [main] Log - Type Firstname:akida
-[INFO ] 2021-08-07 20:19:52.028 [main] Log - Type Lastname:taharat
-[INFO ] 2021-08-07 20:19:52.197 [main] Log - Type Email:akida@gmail.com
-[INFO ] 2021-08-07 20:19:52.365 [main] Log - Type Telephone:1234567890
-[INFO ] 2021-08-07 20:19:52.514 [main] Log - Type password:123456
-[INFO ] 2021-08-07 20:19:52.670 [main] Log - Type confirm password:123456
-[INFO ] 2021-08-07 20:19:52.764 [main] Log - clicked policy button
-[INFO ] 2021-08-07 20:19:54.503 [main] Log - clicked continue button
-[INFO ] 2021-08-07 20:19:54.881 [main] Log - Type Firstname:abida
-[INFO ] 2021-08-07 20:19:55.039 [main] Log - Type Lastname:taharat
-[INFO ] 2021-08-07 20:19:55.214 [main] Log - Type Email:abida@gmail.com
-[INFO ] 2021-08-07 20:19:55.348 [main] Log - Type Telephone:1234567892
-[INFO ] 2021-08-07 20:19:55.512 [main] Log - Type password:1234567
-[INFO ] 2021-08-07 20:19:55.648 [main] Log - Type confirm password:1234567
-[INFO ] 2021-08-07 20:19:55.826 [main] Log - clicked policy button
-[INFO ] 2021-08-07 20:19:57.221 [main] Log - clicked continue button
-[INFO ] 2021-08-07 20:19:57.376 [main] Log - Type Firstname:anika
-[INFO ] 2021-08-07 20:19:57.620 [main] Log - Type Lastname:nawar
-[INFO ] 2021-08-07 20:19:57.777 [main] Log - Type Email:anika@gmail.com
-[INFO ] 2021-08-07 20:19:57.924 [main] Log - Type Telephone:1234567896
-[INFO ] 2021-08-07 20:19:58.062 [main] Log - Type password:12345678
-[INFO ] 2021-08-07 20:19:58.218 [main] Log - Type confirm password:12345678
-[INFO ] 2021-08-07 20:19:58.322 [main] Log - clicked policy button
-[INFO ] 2021-08-07 20:19:59.679 [main] Log - clicked continue button
-[INFO ] 2021-08-07 20:19:59.826 [main] Log - Type Firstname:raz
-[INFO ] 2021-08-07 20:19:59.974 [main] Log - Type Lastname:meera
-[INFO ] 2021-08-07 20:20:00.149 [main] Log - Type Email:raz@gmail.com
-[INFO ] 2021-08-07 20:20:00.327 [main] Log - Type Telephone:1234567897
-[INFO ] 2021-08-07 20:20:00.510 [main] Log - Type password:1234567
-[INFO ] 2021-08-07 20:20:00.668 [main] Log - Type confirm password:1234567
-[INFO ] 2021-08-07 20:20:00.778 [main] Log - clicked policy button
-[INFO ] 2021-08-07 20:20:02.365 [main] Log - clicked continue button
-[INFO ] 2021-08-07 20:20:04.417 [main] Log - Chrome close successfully.
-[INFO ] 2021-08-07 20:26:15.967 [main] Log - Chrome Launch successfully.
-[INFO ] 2021-08-07 20:26:19.306 [main] Log - Registration page opened successfully
-[INFO ] 2021-08-07 20:26:28.419 [main] Log - Type Firstname:akida
-[INFO ] 2021-08-07 20:26:28.641 [main] Log - Type Lastname:taharat
-[INFO ] 2021-08-07 20:26:28.832 [main] Log - Type Email:akida@gmail.com
-[INFO ] 2021-08-07 20:26:28.983 [main] Log - Type Telephone:1234567890
-[INFO ] 2021-08-07 20:26:29.157 [main] Log - Type password:123456
-[INFO ] 2021-08-07 20:26:29.311 [main] Log - Type confirm password:123456
-[INFO ] 2021-08-07 20:26:29.401 [main] Log - clicked policy button
-[INFO ] 2021-08-07 20:26:30.829 [main] Log - clicked continue button
-[INFO ] 2021-08-07 20:26:44.507 [main] Log - Type Firstname:abida
-[INFO ] 2021-08-07 20:26:44.643 [main] Log - Type Lastname:taharat
-[INFO ] 2021-08-07 20:26:44.811 [main] Log - Type Email:abida@gmail.com
-[INFO ] 2021-08-07 20:26:45.066 [main] Log - Type Telephone:1234567892
-[INFO ] 2021-08-07 20:26:45.245 [main] Log - Type password:1234567
-[INFO ] 2021-08-07 20:26:45.395 [main] Log - Type confirm password:1234567
-[INFO ] 2021-08-07 20:26:45.480 [main] Log - clicked policy button
-[INFO ] 2021-08-07 20:26:47.003 [main] Log - clicked continue button
-[INFO ] 2021-08-07 20:26:49.147 [main] Log - Type Firstname:anika
-[INFO ] 2021-08-07 20:26:49.268 [main] Log - Type Lastname:nawar
-[INFO ] 2021-08-07 20:26:49.413 [main] Log - Type Email:anika@gmail.com
-[INFO ] 2021-08-07 20:26:49.552 [main] Log - Type Telephone:1234567896
-[INFO ] 2021-08-07 20:26:49.685 [main] Log - Type password:12345678
-[INFO ] 2021-08-07 20:26:49.824 [main] Log - Type confirm password:12345678
-[INFO ] 2021-08-07 20:26:49.901 [main] Log - clicked policy button
-[INFO ] 2021-08-07 20:26:51.314 [main] Log - clicked continue button
-[INFO ] 2021-08-07 20:26:51.652 [main] Log - Type Firstname:raz
-[INFO ] 2021-08-07 20:26:51.778 [main] Log - Type Lastname:meera
-[INFO ] 2021-08-07 20:26:51.918 [main] Log - Type Email:raz@gmail.com
-[INFO ] 2021-08-07 20:26:52.056 [main] Log - Type Telephone:1234567897
-[INFO ] 2021-08-07 20:26:52.205 [main] Log - Type password:1234567
-[INFO ] 2021-08-07 20:26:52.419 [main] Log - Type confirm password:1234567
-[INFO ] 2021-08-07 20:26:52.493 [main] Log - clicked policy button
-[INFO ] 2021-08-07 20:26:53.957 [main] Log - clicked continue button
-[INFO ] 2021-08-07 20:27:08.034 [main] Log - Chrome close successfully.
+[INFO ] 2021-08-10 20:43:51.508 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-08-10 20:44:05.544 [main] Log - Login page open successfully
+[INFO ] 2021-08-10 20:44:19.002 [main] Log - Type Email:email@gmail
+[INFO ] 2021-08-10 20:44:19.370 [main] Log - Type password:123456
+[INFO ] 2021-08-10 20:44:23.422 [main] Log - Click on Login Button
+[INFO ] 2021-08-10 20:44:34.958 [main] Log - Type Email:test@gmail
+[INFO ] 2021-08-10 20:44:35.578 [main] Log - Type password:123456
+[INFO ] 2021-08-10 20:44:37.526 [main] Log - Click on Login Button
+[INFO ] 2021-08-10 20:44:38.608 [main] Log - Type Email:com01@mail
+[INFO ] 2021-08-10 20:44:39.007 [main] Log - Type password:123456
+[INFO ] 2021-08-10 20:44:40.627 [main] Log - Click on Login Button
+[INFO ] 2021-08-10 20:44:40.997 [main] Log - Type Email:
+[INFO ] 2021-08-10 20:44:41.122 [main] Log - Type password:
+[INFO ] 2021-08-10 20:44:43.009 [main] Log - Click on Login Button
+[INFO ] 2021-08-10 20:44:52.539 [main] Log - Chrome close successfully.
+[INFO ] 2021-08-10 21:07:47.069 [main] Log - Chrome Launch successfully.
+[INFO ] 2021-08-10 21:07:54.561 [main] Log - Login page open successfully
+[INFO ] 2021-08-10 21:08:04.272 [main] Log - Type Email:email@gmail
+[INFO ] 2021-08-10 21:08:04.391 [main] Log - Type password:123456
+[INFO ] 2021-08-10 21:08:06.743 [main] Log - Click on Login Button
+[INFO ] 2021-08-10 21:08:18.565 [main] Log - Type Email:test@gmail
+[INFO ] 2021-08-10 21:08:18.723 [main] Log - Type password:123456
+[INFO ] 2021-08-10 21:08:20.451 [main] Log - Click on Login Button
+[INFO ] 2021-08-10 21:08:21.681 [main] Log - Type Email:com01@mail
+[INFO ] 2021-08-10 21:08:21.841 [main] Log - Type password:123456
+[INFO ] 2021-08-10 21:08:23.350 [main] Log - Click on Login Button
+[INFO ] 2021-08-10 21:08:23.701 [main] Log - Type Email:
+[INFO ] 2021-08-10 21:08:23.825 [main] Log - Type password:
+[INFO ] 2021-08-10 21:08:25.440 [main] Log - Click on Login Button
+[INFO ] 2021-08-10 21:08:29.151 [main] Log - Chrome close successfully.
