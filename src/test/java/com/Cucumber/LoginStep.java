@@ -55,7 +55,7 @@ public class LoginStep {
 
     @Then("Close Test")
     public void close_test() {
-      driver.close();
+        driver.close();
     }
 
 }

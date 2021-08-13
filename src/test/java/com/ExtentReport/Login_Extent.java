@@ -111,8 +111,9 @@ public class Login_Extent {
             //Logout
             // WebElement logout = driver.findElement(By.linkText("Logout"));
             //logout.click();
-            report.flush();
+
         }
+        report.flush();
     }
 }
 
